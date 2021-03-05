@@ -40,4 +40,3 @@ class Admin::ProductsController < ApplicationController
   end
 
 end
-# ENV['ADMIN_LOGIN'], password:ENV['ADMIN_PASS']
